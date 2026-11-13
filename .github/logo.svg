@@ -8,5 +8,7 @@
 <rect width="512" height="512" rx="112" fill="url(#bg)"/>
 <rect width="512" height="512" rx="112" fill="url(#gl)"/>
 <rect x="3" y="3" width="506" height="506" rx="109" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="6"/>
-<path d="M196 116V396L408 256Z" fill="none" stroke="url(#g)" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76 140V112Q76 76 112 76H140M372 76H400Q436 76 436 112V140M436 372V400Q436 436 400 436H372M140 436H112Q76 436 76 400V372" fill="none" stroke="url(#g)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="128" y="124" width="256" height="268" rx="56" fill="url(#g)"/><rect x="152" y="146" width="208" height="188" rx="34" fill="#141826"/>
+<g fill="url(#g)"><path d="M184 200Q184 184 197 192L258 230Q270 240 258 250L197 288Q184 296 184 280Z"/><rect x="282" y="190" width="24" height="100" rx="12"/><rect x="320" y="190" width="24" height="100" rx="12"/></g>
 </svg>
