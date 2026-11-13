@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Media Fix",
+  "version": "0.1.0",
+  "description": "Keeps the play and pause keys pointed at the video you are watching, even after the queue or the miniplayer changes it.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["fix.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}

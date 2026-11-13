@@ -1,0 +1,14 @@
+{
+  "name": "youtube-media-keys-fix",
+  "version": "0.1.0",
+  "description": "A browser extension that keeps the play and pause keys pointed at the YouTube video you are watching.",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obrenoalvim/youtube-media-keys-fix.git"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
